@@ -72,7 +72,7 @@ export const TransactionProvider = ({children}) => {
         } catch (error) {
             console.log(error);
 
-            throw new Error("No ethereum object.")
+            console.log("No ethereum object.")
         }
     }
 
@@ -83,7 +83,7 @@ export const TransactionProvider = ({children}) => {
 
             window.localStorage.setItem("transactionCount", transactionCount);
         } catch (error) {
-            throw new Error ("No Ethereum object.")
+            console.log("No Ethereum object.")
         }
     }
 
@@ -97,7 +97,7 @@ export const TransactionProvider = ({children}) => {
         } catch (error) {
             console.log(error);
 
-            throw new Error("No ethereum object.")
+            console.log("No ethereum object.")
         }
     }
 
@@ -135,7 +135,7 @@ export const TransactionProvider = ({children}) => {
 
         }catch (error) {
             console.log(error);
-            throw new Error ("No Ethereum object.")
+            console.log ("No Ethereum object.")
         }
     }
 
