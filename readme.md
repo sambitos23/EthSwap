@@ -46,5 +46,5 @@ We welcome contributions from the open-source community. Feel free to fork this 
 
 ## 🕹 Demo
 
-[EthSwap: A Secure Crypto Transaction](https://ethswap.vercel.app/)
+[EthSwap: A Secure Crypto Transaction](https://www.linkedin.com/posts/sambit-saha_cryptoexchange-ethswap-blockchain-activity-7106307421387571200-REzj?utm_source=share&utm_medium=member_desktop)
 
